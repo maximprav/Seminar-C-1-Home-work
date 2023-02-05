@@ -14,7 +14,7 @@ if (numberOne > numberTwo)
     Console.Write("Первое число " + numberOne + " является наибольшим");
     Console.Write(", Второе число " + numberTwo + " является наименьшим");
 }
-if (numberOne < numberTwo)
+else
 {
     Console.Write("Первое число " + numberOne + " является наименьшим");
     Console.Write(", Второе число " + numberTwo + " является наибольшим");
